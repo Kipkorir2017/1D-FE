@@ -1,0 +1,13 @@
+html{
+
+}
+body{
+    font-family: verdana;
+    font-size: 300%;
+    margin: 50px;
+
+}
+.main{
+    background-color: aliceblue; 
+    padding: 30px;
+}
